@@ -1,6 +1,7 @@
 public class Fatorial 
 {
 
+// versao
 	public int calcularFatorial(int n)
 	{
 		int resultado = 1;
@@ -12,5 +13,5 @@ public class Fatorial
 		return resultado;
 
 	}
-	
+
 }
