@@ -1,0 +1,47 @@
+[33mcommit d8fb51c55915afc5790a9e1f98070e8da948edb3[m
+Author: Leandro Abreu Ferreira <le_abreu@live.com>
+Date:   Fri Jun 13 00:36:54 2014 -0300
+
+    COMITANDO
+
+[33mcommit 279112e7c08e17d79ec6ffa74dc84e63f67241c2[m
+Author: Leandro Abreu Ferreira <le_abreu@live.com>
+Date:   Fri Jun 6 09:15:38 2014 -0300
+
+    Movendo de arquivos teste para a pasta de teste
+
+[33mcommit 2fd1f951e3fec94d9985986e50bce09a34ab54c8[m
+Author: Leandro Abreu Ferreira <le_abreu@live.com>
+Date:   Tue Jun 3 01:46:06 2014 -0300
+
+    Reorganization da estrutura do project via movimentação de files
+
+[33mcommit ec7869a0aa636082451e17c17ffc7f697027d8ff[m
+Author: Leandro Abreu Ferreira <le_abreu@live.com>
+Date:   Mon Jun 2 09:42:12 2014 -0300
+
+    Deletando o arquivo FatorialRecursivo.java
+
+[33mcommit 1d587892b1f249e5e66a410b77511c59aaf354c3[m
+Author: Leandro Abreu Ferreira <le_abreu@live.com>
+Date:   Mon Jun 2 09:38:22 2014 -0300
+
+    Deletando o arquivo TesteFatorialRecursivo.java
+
+[33mcommit f0e27d458473ed35c2f66e56d182d03fe2a156ee[m
+Author: Leandro Abreu Ferreira <le_abreu@live.com>
+Date:   Mon Jun 2 09:33:29 2014 -0300
+
+    arquivos para a versão recursiva de fatorial adicionados
+
+[33mcommit 73e35f9c7ae2f01cbcf165444200bf16f1622519[m
+Author: Leandro Abreu Ferreira <le_abreu@live.com>
+Date:   Tue May 27 01:31:44 2014 -0300
+
+    Classes Teste Fatorail criado para testar o claculo do Fatorial
+
+[33mcommit 31cf47e2bdc2cfa06bd2355113b46f53763ee2d3[m
+Author: Leandro Abreu Ferreira <le_abreu@live.com>
+Date:   Fri May 16 01:33:19 2014 -0300
+
+    Criacao da primeira versao da classe Fatorial
