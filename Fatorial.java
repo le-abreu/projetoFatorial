@@ -6,6 +6,14 @@ public class Fatorial
 	{
 		int resultado = 1;
 		
+		if(n < 0)
+			throw new IllegalArgumentException("Erro numero menor que 0");
+		
+		if(n == 0)
+			throw new IllegalArgumentException("Erro numero menor que 0");
+		
+		
+	
 		for (int i = 2; i<= n; i++)
 		{
 			resultado += i;	
